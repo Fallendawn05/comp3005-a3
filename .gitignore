@@ -1,0 +1,10 @@
+# demo video recordings
+videos/
+
+# compiled classes
+out/
+*.class
+
+# IDE files
+.idea/
+.vscode/
